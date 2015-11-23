@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ClydeJohnson]]></title>
         <description><![CDATA[ClydeJohnson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/clydejohnson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 17:04:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 Nov 2015 17:05:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clydejohnson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/clydejohnson/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">c40f9a7c-a447-4ba6-8ed1-e28b0076ea81</guid>
+            <pubDate>Mon, 23 Nov 2015 17:04:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A little lesson in not being too rude]]></title>
             <description><![CDATA[<article><h1>A little lesson in not being too rude</h1><img src="http://forgifs.com/gallery/d/241917-2/Taunting-dog-leash-breaks.gif"></article>]]></description>
