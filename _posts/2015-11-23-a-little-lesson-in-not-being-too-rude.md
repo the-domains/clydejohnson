@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://forgifs.com/gallery/v/Dogs/Taunting-dog-leash-breaks.gif.html'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-23T17:04:35.630Z'
-dateModified: '2015-11-23T16:57:42.772Z'
+description: 'Be careful it may well come back and bite your ass - literally! '
+datePublished: '2015-11-24T17:57:58.967Z'
+dateModified: '2015-11-24T17:57:46.633Z'
 author: []
-title: A little lesson in not being too rude
+title: A little lesson in Karma
+sourcePath: _posts/2015-11-23-a-little-lesson-in-not-being-too-rude.md
+published: true
 authors: []
 publisher:
   name: forgifs.com
   domain: forgifs.com
   url: null
   favicon: null
-sourcePath: _posts/2015-11-23-a-little-lesson-in-not-being-too-rude.md
-published: true
+url: a-little-lesson-in-karma/index.html
 _context: 'http://schema.org'
 _type: Article
 
