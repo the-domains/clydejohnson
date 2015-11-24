@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: A touching story showing the importance of family
-datePublished: '2015-11-24T17:51:57.099Z'
-dateModified: '2015-11-24T17:51:39.038Z'
-title: 'Remember to respect our elders '
+datePublished: '2015-11-24T18:01:42.898Z'
+dateModified: '2015-11-24T18:01:06.283Z'
+title: 'The lesson of life '
 author: []
+sourcePath: _posts/2015-11-24-remember-to-respect-our-elders.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-24-remember-to-respect-our-elders.md
-published: true
 url: remember-to-respect-our-elders/index.html
 _type: Article
 
